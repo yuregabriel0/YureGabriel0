@@ -1,16 +1,13 @@
-## Yure Gabriel
+## 🧑🏽‍💻Yure Gabriel
 
-<!--
-**yuregabriel0/YureGabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Sobre`**
 
-Here are some ideas to get you started:
+Me chamo Yure Gabriel, tenho 19 anos e sou de Recife-Pe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de entender como as coisas funcionam na base e aplicar isso em projetos reais. Tenho interesse em áreas como análise de dados, desenvolvimento e automação, sempre buscando evoluir minhas habilidades técnicas e resolver problemas de forma eficiente.
+
+Tecnologias em aprendizado:
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
