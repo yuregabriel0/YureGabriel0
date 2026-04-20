@@ -11,3 +11,4 @@ Tecnologias em aprendizado:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=Mysql)
